@@ -5,7 +5,7 @@
 ### Today's Work:
 
 * Initialized repository and setup basic project structure.
-* Solved all assignment problems for Sessions 1 to 4.
+* Solved all assignment and practice problems for Sessions 1 to 4.
 
 ### Next Session Plan:
 
