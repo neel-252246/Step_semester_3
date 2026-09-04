@@ -1,6 +1,5 @@
 # Step_semester_3
 All assignment and practice problems of step classes are added in this Repository.
-# README
 
 **Date:** 04-09-2026
 
