@@ -1,7 +1,6 @@
-# Step_semester_3
-All assignment and practice problems of step classes are added in this Repository.
+# Date: 04-09-2026
 
-**Date:** 04-09-2026
+---
 
 ### Today's Work:
 
@@ -15,3 +14,5 @@ All assignment and practice problems of step classes are added in this Repositor
 ### Issues Faced:
 
 * None
+
+---
